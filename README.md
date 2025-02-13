@@ -1,1 +1,1 @@
-# godot-4-plugin-utility-node
+# godot-4-plugin-utility-nodes
