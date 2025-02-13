@@ -1,5 +1,4 @@
 @tool
-class_name NodeProxy
 extends Node
 
 @export_file var path: String
